@@ -40,3 +40,5 @@
 	  + 관련 도메인 없지만 충분한 리서치 후, 관련 라이브러리를 활용한 파생 변수 생성
 	
 	- 피드백 : 데이터 부족 -> overfitting 상태 미 해결로 대회 종료
+
+*보러가기: [약물 분자 코드로 약물 독성 분류 코드](https://github.com/bluemumin/smiles_toxicity/blob/main/smiles_code_to_toxicity.ipynb)*
